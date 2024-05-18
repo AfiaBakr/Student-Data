@@ -1,0 +1,12 @@
+{
+  "name": "object-in-array-with-loop",
+  "version": "1.0.0",
+  "description": "Store Student data in object under Array and call with Loop",
+  "main": "index.js",
+  "type" :"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afia",
+  "license": "MIT"
+}
